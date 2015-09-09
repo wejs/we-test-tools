@@ -1,7 +1,7 @@
 {
   "name": "we-test-tools",
   "description": "We.js test tools with helpers and stubs",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "main": "lib/index.js",
   "scripts": {},
   "dependencies": {
