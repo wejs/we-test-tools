@@ -5,17 +5,17 @@
   "main": "lib/index.js",
   "scripts": {},
   "dependencies": {
-    "async": "^1.4.2",
-    "chance": "^0.7.5",
-    "fs-extra": "^0.24.0",
-    "lodash": "^3.0.1",
-    "supertest": "^1.0.1"
+    "async": "1.4.2",
+    "chance": "0.8.0",
+    "fs-extra": "0.24.0",
+    "lodash": "3.0.1",
+    "supertest": "1.0.1"
   },
   "devDependencies": {},
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
   },
-  "author": "Alberto Souza <alberto.souza.dev@gmail.com>",
+  "author": "Alberto Souza <alberto.souza.99@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
