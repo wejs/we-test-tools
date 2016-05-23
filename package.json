@@ -12,13 +12,7 @@
     "supertest": "^1.2.0"
   },
   "devDependencies": {},
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
-  },
-  "author": "Alberto Souza <alberto.souza.99@gmail.com>",
+  "author": "Alberto Souza <contato@albertosouza.net>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:wejs/we-test-tools.git"
-  }
+  "repository": "wejs/we-test-tools"
 }
