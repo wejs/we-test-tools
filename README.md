@@ -10,6 +10,6 @@ Usage exameple: https://github.com/wejs/we-core/blob/master/test/bootstrap.js#L1
 #### NPM Info:
 [![NPM](https://nodei.co/npm/we-test-tools.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/we-test-tools/)
 
-#Copyright and license
+# License
 
-Copyright 2013-2014 Alberto Souza <contato@albertosouza.net> and [contributors](https://github.com/wejs/we-test-tools/graphs/contributors) , under [the MIT license](LICENSE).
+Under [the MIT license](LICENSE).
