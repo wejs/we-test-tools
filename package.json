@@ -5,11 +5,11 @@
   "main": "lib/index.js",
   "scripts": {},
   "dependencies": {
-    "async": "^2.1.4",
-    "chance": "^1.0.4",
-    "fs-extra": "^1.0.0",
-    "lodash": "^4.17.4",
-    "supertest": "^2.0.1"
+    "async": "^2.6.2",
+    "chance": "^1.0.18",
+    "fs-extra": "^7.0.1",
+    "lodash": "^4.17.11",
+    "supertest": "^4.0.2"
   },
   "devDependencies": {},
   "author": "Alberto Souza <contato@albertosouza.net>",
