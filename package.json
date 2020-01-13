@@ -5,10 +5,10 @@
   "main": "lib/index.js",
   "scripts": {},
   "dependencies": {
-    "async": "^2.6.2",
-    "chance": "^1.0.18",
-    "fs-extra": "^7.0.1",
-    "lodash": "^4.17.11",
+    "async": "^3.1.0",
+    "chance": "^1.1.4",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
     "supertest": "^4.0.2"
   },
   "devDependencies": {},
